@@ -6,4 +6,4 @@ WORKDIR /home/amf/autorice-bootstraping
 
 COPY . .
 
-CMD [ "./ariceb" ]
+CMD [ "./autorice.sh" ]

@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 #
-#
+# Name    : Auto Rice Bootstrapping
+# Author  : Abd El-Twab M. Fakhry <abdeltwab.m.fakhry at gmail.com>
+# License : GNU GPLv3
 
 OPT_DIR="$HOME/.local/opt"
 GITHUB_BASE_URL="https://github.com"
